@@ -67,7 +67,7 @@ Traditional remittance services suffer from high fees, complex flows, and low tr
 
 ## 🗂️ Contents
 
-- 📄 [FlexiPay Case Study PDF](./Documents/FlexiPay-Case-Study.pdf)
+- 📄 [View Full Case Study Report](./FlexiPay%20-%20Case%20Study.pdf)
 - 🔗 [User Flowcharts (Lucidchart)](https://lucid.app/lucidchart/64aaac94-d579-4ab4-b64a-1f1773833170/edit?view_items=AZgVYCW1uh1Y...)
 
 ---
