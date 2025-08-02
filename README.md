@@ -29,11 +29,6 @@ Users making frequent cross-border payments face delays, manual conversion steps
 ## 🛠 Tools Used
 Figma, Lucidchart, Excel
 
-## 📂 Project Files
-- `FlexiPay_PRD.md`
-- `UX_Flow_Figma_Export.png`
-- `Currency_Conversion_Logic.xlsx`
-
 ## 🔗 Useful Links
 - [PRD PDF](./FlexiPay_PRD.md)
 - [GitHub Project Repo](https://github.com/psingh2895/FlexiPay-PRD)
