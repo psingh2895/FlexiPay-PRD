@@ -30,5 +30,5 @@ Users making frequent cross-border payments face delays, manual conversion steps
 Figma, Lucidchart, Excel
 
 ## 🔗 Useful Links
-- [PRD PDF](./FlexiPay_PRD.md)
+- [PRD PDF](https://github.com/psingh2895/FlexiPay-PRD/blob/main/FlexiPay%20-%20Case%20Study.pdf)
 - [GitHub Project Repo](https://github.com/psingh2895/FlexiPay-PRD)
