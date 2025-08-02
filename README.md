@@ -1,79 +1,39 @@
-# FlexiPay-PRD
-Product Requirements Document for FlexiPay – a cross-border payments platform built for speed, affordability, and security.
+# 💸 Multi-Currency Wallet & Transfer Feature – Fintech Product (FlexiPay)
 
-# 💸 FlexiPay – Product Requirements Document
+## 📌 Overview
+This case study outlines a proposed feature for a cross-border fintech product offering multi-currency wallets and real-time exchange rate integration. The goal was to simulate product ideation, documentation, and feature planning as a Product Analyst.
 
-This repository contains the Product Requirements Document (PRD) for **FlexiPay**, a next-gen cross-border payments platform. The goal is to provide an affordable, secure, and real-time solution for international remittances.
+## 🔍 Problem Statement
+Users making frequent cross-border payments face delays, manual conversion steps, and lack of real-time exchange transparency, especially in mobile-first markets.
 
----
+## 🎯 Project Goals
+- Design a product feature enabling seamless multi-currency transfers with live exchange updates.
+- Create a PRD aligned with user flows, tech feasibility, and stakeholder needs.
+- Simulate MVP planning with real-world constraints and product thinking.
 
-## 🚀 Business Overview
+## 🧪 Research Highlights
+- Studied 4 global fintech products (Wise, Revolut, Jupiter, Niyo).
+- Identified key user expectations: conversion transparency, minimal clicks, real-time rates, and budget alerts.
+- Mapped pain points like re-authentication during transfers and inconsistent fee display.
 
-Traditional remittance services suffer from high fees, complex flows, and low transparency. FlexiPay addresses these challenges through:
+## 📐 Proposed Feature
+- Multi-currency wallet with in-app real-time FX rate comparison.
+- Transfer calculator integrated with budget alerting.
+- Conversion logic automation to reduce manual steps by ~40%.
 
-- Competitive exchange rates
-- Real-time transfers
-- Secure, multi-currency digital wallet
-- Transparent cost breakdowns
+## 📈 Impact (Simulated)
+- The automation logic and UI redesign were benchmarked with mock users and validated for feasibility by product mentors.
+- Created a PRD used as a reference in peer discussions for MVP planning and feature prioritization.
+- Helped improve my own understanding of stakeholder mapping, tech dependencies, and cost estimation for cross-border features.
 
----
+## 🛠 Tools Used
+Figma, Lucidchart, Excel
 
-## 🎯 Target Users
+## 📂 Project Files
+- `FlexiPay_PRD.md`
+- `UX_Flow_Figma_Export.png`
+- `Currency_Conversion_Logic.xlsx`
 
-- **Freelancers & Expats** – Need quick, low-cost global transfers
-- **SMEs & Startups** – Manage supplier payments and international transactions
-
----
-
-## 🧩 User Journeys
-
-### 1. Individual Receiving International Payments
-- Sign up → KYC → Wallet setup → Receive → Withdraw
-
-### 2. Business Paying Overseas Suppliers
-- Register → Add recipient → Schedule payment → Transfer → Reconcile
-
----
-
-## 💡 Key Features
-
-- Multi-currency wallet
-- Real-time conversion
-- Secure authentication (OTP, 2FA)
-- Alerts for exchange rate changes
-- Transparent fee breakdown
-- AML/KYC compliance
-
----
-
-## 🔐 Security & Compliance
-
-- End-to-end encryption
-- GDPR-compliant data handling
-- Fraud detection + AI monitoring
-
----
-
-## 📊 Metrics for Success
-
-| Category | Metrics |
-|----------|---------|
-| User Growth | Total Signups, Retention Rate |
-| Efficiency | Avg. Transaction Time, Success Rate |
-| Revenue | Revenue per Transaction, CLTV |
-| Security | Fraud Detection Rate, Resolution Time |
-
----
-
-## 🗂️ Contents
-
-- 📄 [View Full Case Study Report](./FlexiPay%20-%20Case%20Study.pdf)
-- 🔗 [User Flowcharts (Lucidchart)](https://lucid.app/lucidchart/64aaac94-d579-4ab4-b64a-1f1773833170/edit?view_items=AZgVYCW1uh1Y...)
-
----
-
-## 👨‍💻 About Me
-
-I’m an aspiring Product Owner/BA with hands-on experience creating documentation, process flows, and product vision for fintech and CX platforms.
-
-📫 [LinkedIn](http://linkedin.com/in/paramjeet-singh-55459a163) | 📬 [Email](paramjeet_singh1995@yahoo.in)
+## 🔗 Useful Links
+- [PRD PDF](./FlexiPay_PRD.md)
+- [GitHub Project Repo](https://github.com/psingh2895/FlexiPay-PRD)
