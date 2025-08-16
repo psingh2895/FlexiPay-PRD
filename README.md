@@ -1,4 +1,4 @@
-# 💸 Multi-Currency Wallet & Transfer Feature – Fintech Product (FlexiPay)
+# 💸 FlexiPay - Multi-Currency Wallet & Transfer Feature – Fintech Product 
 
 ## 📌 Overview
 This case study outlines a proposed feature for a cross-border fintech product offering multi-currency wallets and real-time exchange rate integration. The goal was to simulate product ideation, documentation, and feature planning as a Product Analyst.
